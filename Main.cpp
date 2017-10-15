@@ -1,3 +1,10 @@
+/*
+# -*- coding: utf-8 -*-
+"""
+@author: MetaMemeLord-
+"""
+*/
+
 #include<iostream>
 #include<string>
 #include<string.h>
